@@ -1,0 +1,12 @@
+FreeFile Version 1
+M1 MakeURL：根据文件生成blocks和url.txt
+M2 OpenFree：可以根据url通过http协议获得相应的文件
+M3 OpenFree：生成node ID，可以和其他开放的节点通讯，生成nodes列表
+M4 OpenFree：可以向其他节点请求block
+M5 OpenFree：可以将block发布到更合适的节点上
+M6 OpenFree：网络层的优化，支持内网节点
+M7 OpenFree：网络层的优化，提高内网节点的通讯效率
+M8 OpenFree：GUI
+M9 OpenFree：合并MakeURL功能
+M10 OpenFree：GUI调整
+M11 OpenFree：和内核文件系统结合
